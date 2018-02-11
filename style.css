@@ -1,0 +1,82 @@
+article, aside, figure, figcaption, footer, header, nav, section {
+    display: block;
+}
+
+body {
+	padding: 60px;
+	background-image: url(images/bdy2.jpg);
+    background-size: cover;
+}
+#section {
+	box-shadow: 10px 5px 5px #800000;
+	border-style: outset;
+	padding: 20px;
+	background-image: url(images/bday.jpg);
+    background-size: cover;
+	border-radius: 10px;
+     
+	
+}
+h1 {
+	font-family: Papyrus, calibri, sans-serif;
+	color:black;
+	font-weight: bold;
+	text-align: center;
+	font-size: 2.5em;
+	font-weight: bolder;
+    width: 30%;
+    margin: auto;
+   
+    
+  
+}
+
+h3, h4 {
+	font-family: Papyrus, calibri, sans-serif;
+	color:black;
+	font-size: 1.7em;
+	font-weight: bolder;
+	padding: 5px;
+	margin: 10px;
+    text-align: center;
+    width: 30%;
+    margin: auto;
+    padding-top: 100px;
+}
+
+h5 {
+	font-family: Papyrus, calibri, sans-serif;
+	color:black;
+	font-size: 1.2em;
+	font-weight: bolder;
+	padding: 5px;
+	margin: 10px;
+    text-align: center;
+    width: 30%;
+    margin: auto;
+    padding-bottom: 500px;
+    
+}
+
+
+footer {
+	text-align: center;
+	font-family: calibri, sans-serif;
+}
+
+
+
+p {
+	color: firebrick;
+	font-weight: bold;
+	font-family: Century gothic, sans-serif;
+	text-align: center;
+}
+
+h6  {
+	color: firebrick;
+	font-weight: bold;
+	font-family: Century gothic, sans-serif;
+	text-align: center;
+}
+
